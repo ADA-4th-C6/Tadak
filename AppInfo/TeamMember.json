@@ -1,52 +1,50 @@
-{
-  "members": [
-    {
-      "id": "1",
-      "name": "넬",
-      "english_name": "Nell",
-      "role": "Developer",
-      "image_name": "flame",
-      "website_url": "https://github.com/nell"
-    },
-    {
-      "id": "2",
-      "name": "리나",
-      "english_name": "Lina",
-      "role": "Developer",
-      "image_name": "flame",
-      "website_url": "https://github.com/lina"
-    },
-    {
-      "id": "3",
-      "name": "아일라",
-      "english_name": "Isla",
-      "role": "Developer",
-      "image_name": "flame",
-      "website_url": "https://github.com/isla"
-    },
-    {
-      "id": "4",
-      "name": "제제",
-      "english_name": "Jeje",
-      "role": "Developer",
-      "image_name": "flame",
-      "website_url": "https://github.com/jeje"
-    },
-    {
-      "id": "5",
-      "name": "파란",
-      "english_name": "Paran",
-      "role": "Developer",
-      "image_name": "ProfileParan",
-      "website_url": "https://github.com/paran"
-    },
-    {
-      "id": "6",
-      "name": "샐리",
-      "english_name": "Sally",
-      "role": "Designer",
-      "image_name": "flame",
-      "website_url": "https://github.com/sally"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "넬",
+    "english_name": "Nell",
+    "role": "Developer",
+    "image_name": "ProfileNell",
+    "website_url": "https://github.com/nero-angela"
+  },
+  {
+    "id": "2",
+    "name": "리나",
+    "english_name": "Lina",
+    "role": "Developer",
+    "image_name": "ProfileLina",
+    "website_url": "https://github.com/min-gyoung"
+  },
+  {
+    "id": "3",
+    "name": "아일라",
+    "english_name": "Isla",
+    "role": "Developer",
+    "image_name": "ProfileIsla",
+    "website_url": "https://github.com/Islajin"
+  },
+  {
+    "id": "4",
+    "name": "제제",
+    "english_name": "Jeje",
+    "role": "Developer",
+    "image_name": "ProfileJeje",
+    "website_url": "https://www.linkedin.com/in/jeong-uk-park-b30b4824b/"
+  },
+  {
+    "id": "5",
+    "name": "파란",
+    "english_name": "Paran",
+    "role": "Developer",
+    "image_name": "ProfileParan",
+    "website_url": "https://github.com/ifindary"
+  },
+  {
+    "id": "6",
+    "name": "샐리",
+    "english_name": "Sally",
+    "role": "Designer",
+    "image_name": "ProfileSally",
+    "website_url": "https://www.linkedin.com/in/수빈-이-990a95359"
+  }
+]
