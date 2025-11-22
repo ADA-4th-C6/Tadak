@@ -3,42 +3,42 @@
     "id": "1",
     "name": "Nell",
     "role": "Developer",
-    "image_name": "ProfileNell",
-    "website_url": "https://github.com/nero-angela"
+    "imageName": "ProfileNell",
+    "websiteURL": "https://github.com/nero-angela"
   },
   {
     "id": "2",
     "name": "Lina",
     "role": "Developer",
-    "image_name": "ProfileLina",
-    "website_url": "https://github.com/min-gyoung"
+    "imageName": "ProfileLina",
+    "websiteURL": "https://github.com/min-gyoung"
   },
   {
     "id": "3",
     "name": "Isla",
     "role": "Developer",
-    "image_name": "ProfileIsla",
-    "website_url": "https://github.com/Islajin"
+    "imageName": "ProfileIsla",
+    "websiteURL": "https://github.com/Islajin"
   },
   {
     "id": "4",
     "name": "Jeje",
     "role": "Developer",
-    "image_name": "ProfileJeje",
-    "website_url": "https://www.linkedin.com/in/jeong-uk-park-b30b4824b/"
+    "imageName": "ProfileJeje",
+    "websiteURL": "https://www.linkedin.com/in/jeong-uk-park-b30b4824b/"
   },
   {
     "id": "5",
     "name": "Paran",
     "role": "Developer",
-    "image_name": "ProfileParan",
-    "website_url": "https://github.com/ifindary"
+    "imageName": "ProfileParan",
+    "websiteURL": "https://github.com/ifindary"
   },
   {
     "id": "6",
     "name": "Sally",
     "role": "Designer",
-    "image_name": "ProfileSally",
-    "website_url": "https://www.linkedin.com/in/수빈-이-990a95359"
+    "imageName": "ProfileSally",
+    "websiteURL": "https://www.linkedin.com/in/수빈-이-990a95359"
   }
 ]
