@@ -2,7 +2,5 @@
   "latest_version": "1.0.0",
   "latest_build": 1,
   "minimum_build": 1,
-  "app_store_url": "https://apps.apple.com/us/app/id6754827360",
-  "caching_test": "Hello, World.",
-  "enable_developer_view": false
+  "app_store_url": "https://apps.apple.com/us/app/id6754827360"
 }
